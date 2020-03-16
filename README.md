@@ -4,3 +4,6 @@
 ## 使用控件
 这个demo使用了控件如下：
 **ScrollView、Button、EditText、ImageView、SeekBar、TextView、LinearLayout**
+
+
+![image](./ScreenShot.JPG)
